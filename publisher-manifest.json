@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "974cf9a3fb61edb3cca18421",
+  "owner": "ureab8q9j",
+  "repo": "page-e453cf1f6e0cf697db460da9",
+  "title": "PRPR橙(prpr)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e453cf1f6e0cf697db460da9",
+      "a": "PRPR橙(prpr)",
+      "b": "2027最新官网",
+      "entity": "PRPR橙(prpr)",
+      "brand": "PRPR橙(prpr)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4da9b639417235b20ea256a96310365b0faf061e5cc9ba303327ace3bfb7b9cc",
+      "content": {
+        "primary_entity": "PRPR橙(prpr)",
+        "keyword1": "PRPR橙(prpr)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择对应客户端，按系统说明导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备挑好客户端，选一档套餐开始连接。",
+          "AI_CLOSING_TITLE": "选套餐，连全球",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，覆盖每月100GB到1000GB流量与3至20台设备同时在线，适合个人流媒体、游戏加速及小型团队协作场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度对比，快速找到匹配方案。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，适合手机与平板轻度使用，月付¥15，年付¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，含IPLC专线与流媒体解锁，月付¥35。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，支持定制路由，月付¥85。",
+          "AI_FEATURE_TITLE_1": "轻量日常选基础版",
+          "AI_FEATURE_TITLE_2": "均衡体验选旗舰版",
+          "AI_FEATURE_TITLE_3": "多设备选团队版",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的全过程。",
+          "AI_GUIDE_TITLE": "配置指南",
+          "AI_HERO_INTRO": "PRPR橙(prpr)面向需要海外网络加速的用户，按设备数量与流量需求划分三档套餐，帮助个人和团队选择合适的订阅周期。",
+          "AI_HERO_SUBTITLE": "轻量到团队，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数匹配在线终端",
+          "AI_HIGHLIGHT_3": "月付年付灵活订阅周期",
+          "AI_PLANS_INTRO": "基础版月付¥15、旗舰版月付¥35、团队版月付¥85，年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数量，从三档套餐中选择匹配的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流媒体与专线加速等适配要求。",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档导入订阅地址并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "客户端配置订阅",
+          "AI_VISUAL_TITLE": "PRPR橙加速套餐",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "PRPR橙(prpr)支持哪些设备平台？",
+          "AI_FAQ_ANSWER_1": "主流客户端覆盖桌面与移动端，具体适配列表可查阅客户端选择说明。不同系统推荐安装对应版本，按照客户端文档配置订阅链接后即可使用。",
+          "AI_FAQ_QUESTION_2": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、3台设备；旗舰版300GB、5台设备并含IPLC专线；团队版1000GB、20台设备并支持定制路由。流量、设备数和线路类型逐级提升。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版按月¥15，按年¥150；旗舰版按月¥35，按年¥350；团队版按月¥85，按年¥850。按年付相当于支付十个月费用，获得十二个月使用时长。",
+          "AI_FAQ_QUESTION_4": "流量超出套餐额度会怎样？",
+          "AI_FAQ_ANSWER_4": "每个套餐标注的流量为每月高速流量，超出后的具体处理方式建议参考服务方说明。如需更多流量，可选择更高档套餐或等待下月额度重置。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_5": "获取订阅链接后，在对应客户端中找到订阅或配置导入入口，粘贴链接并更新节点列表，随后选择合适的节点连接。不同客户端界面略有差异，请按文档操作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "spbyjzu.cn",
+    "host": "spbyjzu.cn"
+  },
+  "file_hashes": {
+    "index.html": "923b1de94978ac87af9bee141b0895019607aef8783e55414da39daad6005a14",
+    "sitemap.xml": "00b45e4af37c27290a86396cfde63cb285c193b6955af82b56eb9a9e2d07536b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9528180f4871a79962e0c5f082545be9a5c1155b9d133f4bae86beac3e52bb8e",
+    "robots.txt": "7ff97757c84ced434426a6ba3b156d3850d98f286d8c34ec8c6f14152cdfdb35",
+    "c52de5d463b19aa9f05f7589683cdf8b.txt": "2e292854e4a1f7f28b28ff4d44060a88314d312394ec30d144d6513a0e8216c1"
+  },
+  "revision": "2233826e29497ae639b9e474ceaf0ad0a66b8446ef4d0358f976999bb3b51dbf"
+}
